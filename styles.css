@@ -1,0 +1,13 @@
+  body {
+    font-family: verdana;
+  }
+  
+  #event-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  #event-list > div {
+    padding: 1rem;
+    margin: 1rem;
+  }
